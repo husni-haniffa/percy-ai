@@ -15,6 +15,7 @@
     "@tanstack/react-form": "^1.33.5",
     "@tanstack/react-form-devtools": "^0.2.34",
     "@tanstack/react-form-nextjs": "^1.33.5",
+    "arktype": "^2.2.3",
     "class-variance-authority": "^0.7.1",
     "cn": "^0.4.0",
     "lucide-react": "^1.47.0",
